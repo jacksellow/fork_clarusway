@@ -1,1 +1,1 @@
-
+print("Bunu Erkan degistirdi.")
